@@ -95,12 +95,8 @@ This project applies time series analysis techniques to two real-world domains: 
 ## Tools Used
 
 - R (for SARIMA, forecast, tseries, ACF/PACF plots)
-- Python (Jupyter, for some preprocessing)
+- Colab
 - Libraries: `forecast`, `tseries`, `ggplot2`, `auto.arima`, `stats`, `Box.test`
 
----
 
- **Author:** Sai Eshwar Gaddipati  
- **Contact:** [LinkedIn](https://linkedin.com/in/your-profile)  
- **Report:** See `MA-641_Project_Report.pdf` in this repo
 
