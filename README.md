@@ -36,16 +36,15 @@ This project applies time series analysis techniques to two real-world domains: 
 - Differencing & Log Transformation
 - ACF and PACF analysis
 - ARIMA & SARIMA Modeling
-- Model Selection via AIC/BIC
+- Model Selection via AIC
 - Forecast Accuracy Metrics: RMSE, MAE, MAPE
 
 ---
 
 ## Files & Structure
 
-- `Seasonal (2).ipynb` – Costco Stock SARIMA modeling
-- `Non_seasonal_(2).ipynb` – NYPD Shooting ARIMA modeling
-- `MA-641_Project_Report.pdf` – Full report with analysis, charts, and conclusions
+- `Seasonal.ipynb` – Costco Stock SARIMA modeling
+- `Non_seasonal.ipynb` – NYPD Shooting ARIMA modeling
 
 ---
 
@@ -71,8 +70,8 @@ This project applies time series analysis techniques to two real-world domains: 
 
 | Model         | RMSE  | MAPE (%) | AIC     |
 |---------------|-------|----------|---------|
-| ARIMA(1,1,1) – NYPD | ~Low | ~10%     | 458.4   |
-| SARIMA – Costco     | ~Low | ~7–9%    | Best among ARIMA/SARIMA |
+| ARIMA(1,1,1) – NYPD | 0.5964 | 17.88   | 458.4   |
+| SARIMA – Costco     | 0.0208 | 0.28    | -4872.99 |
 
 ---
 
