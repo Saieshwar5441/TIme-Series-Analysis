@@ -6,9 +6,7 @@ This project applies time series analysis techniques to two real-world domains: 
 
 ## Project Overview
 
-- **Course:** MA-641 Time Series Analysis  
-- **Timeline:** Spring 2024  
-- **Author:** Sai Eshwar Gaddipati  
+- **Timeline:** September 2024 - December 2024 
 - **Topics:**
   - **Seasonal:** Costco Stock Price Prediction (2021–2024)
   - **Non-Seasonal:** NYPD Daily Shooting Incident Forecasting (Jan–Sep 2024)
